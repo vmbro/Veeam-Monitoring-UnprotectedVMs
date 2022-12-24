@@ -15,10 +15,14 @@ You need following software and versions to use scripts.
 * VMware vCenter 6.5 or above (vSphere 8 not tested)
 * Slack
 ```
+## Example
+
+![unprotected-vms-slack](https://user-images.githubusercontent.com/6716206/209443890-e7050367-fd3a-47b4-b8ac-4b0eeb50e3e0.png)
 
 ## More details about scripts
 
 https://vmbro.com/veeam-backup-ve-slack-alarmlari-1-unprotected-vms/ - Related Article
+
 
 
 ## License
