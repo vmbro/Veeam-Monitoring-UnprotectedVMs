@@ -7,7 +7,7 @@ You only need to change variables according to yourself then you can easily run 
 
 ### Prerequisites
 
-You need following software versions to use scripts.
+You need following software and versions to use scripts.
 
 ```
 * PowerCLI 12.1.0 or above
