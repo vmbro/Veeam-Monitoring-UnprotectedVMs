@@ -21,8 +21,7 @@ You need following software and versions to use scripts.
 
 ## More details about scripts
 
-https://vmbro.com/veeam-backup-ve-slack-alarmlari-1-unprotected-vms/ - Related Article
-
+You can visit my blog for [alerting unprotected virtual machines by Veeam](https://vmbro.com/veeam-backup-ve-slack-alarmlari-1-unprotected-vms/) and more detailed information.
 
 
 ## License
